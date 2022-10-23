@@ -10,7 +10,7 @@ This is a list of Free Python Resources to learn Python programming language.
 
 - [Hashnode Python Blogs](https://hashnode.com/n/python) by [Hashnode](https://hashnode.com)
 
-## 🔴 Youtube Videos/ Playlists [Hindi]
+## 🔴 Youtube Videos/ Playlists 
 
 - [FreeCodeCamp](https://youtu.be/rfscVS0vtbw) 
 - [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) 
