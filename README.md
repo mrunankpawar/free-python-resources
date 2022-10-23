@@ -1,6 +1,6 @@
 # Free Python Resources 💻
 
-This is a list of Free Python Resources to learn Python programming languages.
+This is a list of Free Python Resources to learn Python programming language.
 
 ## Start here 👇
 
