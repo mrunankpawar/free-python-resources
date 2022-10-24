@@ -31,6 +31,7 @@ A list of Python Learning Platforms.
 - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language/)
 - [Datacamp](https://www.datacamp.com/tracks/python-programming)
 - [Programiz](https://www.programiz.com/python-programming)
+- [W3School](https://www.w3schools.com/python/)
 
 
 ## 👨‍💻 Development IDEs
