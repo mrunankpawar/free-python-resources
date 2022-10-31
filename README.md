@@ -22,6 +22,8 @@ This is a list of Free Python Resources to learn Python programming language.
 - [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
 - [CS Dojo](https://youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 - [Harshit Vashisth (Hindi)](https://youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+- [Edureka](https://www.youtube.com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
+- [Clever Programmer](https://www.youtube.com/watch?v=B9nFMZIYQl0)
 
 ## 👨‍💻 Learning Platforms
 
@@ -32,6 +34,7 @@ A list of Python Learning Platforms.
 - [Datacamp](https://www.datacamp.com/tracks/python-programming)
 - [Programiz](https://www.programiz.com/python-programming)
 - [W3School](https://www.w3schools.com/python/)
+- [CodeAcademy](https://www.codecademy.com/catalog/language/python)
 
 
 ## 👨‍💻 Development IDEs
@@ -42,5 +45,3 @@ A list of Python Learning Platforms.
 - [Spyder](https://www.spyder-ide.org/)
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/)
-
-
