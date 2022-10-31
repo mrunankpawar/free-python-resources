@@ -24,6 +24,7 @@ This is a list of Free Python Resources to learn Python programming language.
 - [Harshit Vashisth (Hindi)](https://youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 - [Edureka](https://www.youtube.com/watch?v=WGJJIrtnfpk&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
 - [Clever Programmer](https://www.youtube.com/watch?v=B9nFMZIYQl0)
+- [CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 
 ## 👨‍💻 Learning Platforms
 
@@ -35,6 +36,14 @@ A list of Python Learning Platforms.
 - [Programiz](https://www.programiz.com/python-programming)
 - [W3School](https://www.w3schools.com/python/)
 - [CodeAcademy](https://www.codecademy.com/catalog/language/python)
+- [Udemy](https://www.udemy.com/course/pythonforbeginnersintro/)
+- [Coursera](https://www.coursera.org/specializations/python)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- [Google](https://developers.google.com/edu/python)
+- [LinkedIn](https://www.linkedin.com/learning/python-essential-training-2018)
+- [SimpleLearn](https://www.simplilearn.com/tutorials/python-tutorial)
+- [Tutorial Point](https://www.tutorialspoint.com/python/index.htm)
+- [FullStackPython](https://www.fullstackpython.com/)
 
 
 ## 👨‍💻 Development IDEs
